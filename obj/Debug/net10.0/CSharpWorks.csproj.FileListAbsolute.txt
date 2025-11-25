@@ -1,0 +1,14 @@
+C:\Users\idole\OneDrive\Masaüstü\CSharpWorks\bin\Debug\net10.0\CSharpWorks.exe
+C:\Users\idole\OneDrive\Masaüstü\CSharpWorks\bin\Debug\net10.0\CSharpWorks.deps.json
+C:\Users\idole\OneDrive\Masaüstü\CSharpWorks\bin\Debug\net10.0\CSharpWorks.runtimeconfig.json
+C:\Users\idole\OneDrive\Masaüstü\CSharpWorks\bin\Debug\net10.0\CSharpWorks.dll
+C:\Users\idole\OneDrive\Masaüstü\CSharpWorks\bin\Debug\net10.0\CSharpWorks.pdb
+C:\Users\idole\OneDrive\Masaüstü\CSharpWorks\obj\Debug\net10.0\CSharpWorks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idole\OneDrive\Masaüstü\CSharpWorks\obj\Debug\net10.0\CSharpWorks.AssemblyInfoInputs.cache
+C:\Users\idole\OneDrive\Masaüstü\CSharpWorks\obj\Debug\net10.0\CSharpWorks.AssemblyInfo.cs
+C:\Users\idole\OneDrive\Masaüstü\CSharpWorks\obj\Debug\net10.0\CSharpWorks.csproj.CoreCompileInputs.cache
+C:\Users\idole\OneDrive\Masaüstü\CSharpWorks\obj\Debug\net10.0\CSharpWorks.dll
+C:\Users\idole\OneDrive\Masaüstü\CSharpWorks\obj\Debug\net10.0\refint\CSharpWorks.dll
+C:\Users\idole\OneDrive\Masaüstü\CSharpWorks\obj\Debug\net10.0\CSharpWorks.pdb
+C:\Users\idole\OneDrive\Masaüstü\CSharpWorks\obj\Debug\net10.0\CSharpWorks.genruntimeconfig.cache
+C:\Users\idole\OneDrive\Masaüstü\CSharpWorks\obj\Debug\net10.0\ref\CSharpWorks.dll
