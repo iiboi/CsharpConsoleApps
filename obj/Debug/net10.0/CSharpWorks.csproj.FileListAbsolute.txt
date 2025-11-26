@@ -12,3 +12,4 @@ C:\Users\idole\OneDrive\Masaüstü\CSharpWorks\obj\Debug\net10.0\refint\CSharpWo
 C:\Users\idole\OneDrive\Masaüstü\CSharpWorks\obj\Debug\net10.0\CSharpWorks.pdb
 C:\Users\idole\OneDrive\Masaüstü\CSharpWorks\obj\Debug\net10.0\CSharpWorks.genruntimeconfig.cache
 C:\Users\idole\OneDrive\Masaüstü\CSharpWorks\obj\Debug\net10.0\ref\CSharpWorks.dll
+C:\Users\idole\OneDrive\Masaüstü\CSharpWorks\obj\Debug\net10.0\CSharpWorks.sourcelink.json
